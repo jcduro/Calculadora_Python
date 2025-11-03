@@ -1,10 +1,21 @@
 # 🧮 Calculadora Gráfica en Python (Tkinter)
 
-<img src="https://user-images.githubusercontent.com/tu-user/calculadora-preview.png" width="500"/>
+---
 
-## Descripción
+📘 Descripción
 
 Esta calculadora gráfica está hecha con **Python** y la librería estándar **Tkinter**. Permite realizar operaciones matemáticas básicas, raíces, porcentajes y cuenta con una interfaz bonita y moderna. Su función de porcentaje ha sido adaptada para comportarse igual que en las calculadoras físicas (ejemplo: `650*30 %` da el 30% de 650).
+
+---
+
+🧰 Tecnologías Utilizadas
+
+🐍 Python 3.x
+
+---
+
+## 🖼️ Vista previa
+![Calculadora Preview](preview.gif)
 
 ---
 
@@ -19,13 +30,14 @@ Esta calculadora gráfica está hecha con **Python** y la librería estándar **
 
 ---
 
-## Vista previa
+## 📊 Lenguajes y Herramientas
 
-![Calculadora Preview](https://user-images.githubusercontent.com/tu-user/calculadora-preview.png)
+[![My Skills](https://skillicons.dev/icons?i=python,github,linux,vscode&theme=light&perline=8)](https://skillicons.dev)
+
 
 ---
 
-## Instalación
+## 📊 Instalación
 
 1. **Instala Python 3.x:**  
    Descárgalo de [python.org](https://www.python.org/)  
@@ -44,7 +56,7 @@ Esta calculadora gráfica está hecha con **Python** y la librería estándar **
 
 ---
 
-## Uso
+## 🚀 Uso
 
 - Haz clic en los botones para formar la operación.
 - Usa el botón **C** para limpiar, **⌫** para borrar el último dígito.
@@ -54,7 +66,7 @@ Esta calculadora gráfica está hecha con **Python** y la librería estándar **
 
 ---
 
-## Código
+## 🚀 Código
 
 [Ver el código fuente aquí](calculadora.py)
 
@@ -66,7 +78,7 @@ Esta calculadora gráfica está hecha con **Python** y la librería estándar **
 
 ---
 
-## Créditos y Licencia
+## 🚀 Créditos y Licencia
 
 Esta calculadora es de código abierto. Puedes modificarla y compartirla libremente.
 
